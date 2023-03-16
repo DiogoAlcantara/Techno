@@ -1,0 +1,20 @@
+{
+  "id": "notebook",
+  "nome": "Notebook",
+  "preco": 2999,
+  "descricao": "Notebook com processador i7 de 10º geração, memória RAM de 8gb e 512gb de SSD",
+  "estoque": 12,
+  "img": "./api/produtos/notebook/notebook-foto.jpg",
+  "avaliacoes": [
+    {
+      "nome": "Diogo",
+      "estrelas": 5,
+      "descricao": "Gostei muito do produto, ótimo custo beneficio"
+    },
+    {
+      "nome": "Vittoria",
+      "estrelas": 3,
+      "descricao": "Achei o notebook muito lento, porém ao trocar a memória o desempenho melhorou muito"
+    }
+  ]
+}
